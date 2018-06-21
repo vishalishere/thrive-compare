@@ -20,7 +20,7 @@ After some time loading, product details, price and link to product on Thrive Ma
 
 ## FAQ:
 ### Why?
-- I thought it would be a fun project to work on on my free time?
+- I thought it would be a fun project to work on on my free time
 ### Are you going to continue improving/maintaining this project?
 - Possibly, when I have available free time. I think this could eventually be a useful tool for many people.
 ### The extension doesn't work! There are a bunch of bugs!
